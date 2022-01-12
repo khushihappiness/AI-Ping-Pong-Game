@@ -26,3 +26,28 @@ canvas
 {
 align-items: center;
 }
+
+.play
+{
+   width: 140px;
+   height: 50px;
+   font-size: 23px;
+}
+
+.restart
+{
+   width: 140px;
+   height: 50px;
+   font-size: 23px;
+}
+
+.copy_right_footer
+{
+   bottom: 0;
+background-color: orange;
+line-height: 3;
+text-align: center;
+position: fixed;
+width: 100%;
+
+}
