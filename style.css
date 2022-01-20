@@ -24,7 +24,8 @@ background-size: cover;
 
 canvas
 {
-align-items: center;
+border: 3px seashell;
+border-radius: 20px;
 }
 
 .play
